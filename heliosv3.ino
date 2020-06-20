@@ -39,7 +39,8 @@
 // https://bloghoskins.blogspot.com/
 
 /*  
- *   V3
+ *   v3
+ *   https://bloghoskins.blogspot.com/2020/06/helios-one-arduino-synth-part-3.html
  *   In this version we add a low pass filter.  A cut off pot and resonance pot are added.
  *   For this you'll need two B10k pots, and a 220ohm resistor.
  *   A3: for Resonance (center pot).  Other lugs go to ground and +5v
